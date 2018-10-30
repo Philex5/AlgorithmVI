@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c75da50b-1b31-49c7-a017-adccf2a056b8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1149940040">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1588" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1588" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AlgorithmsVI" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter3_Searching/BinarySearchingST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter3_Searching/SequentialSearchST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="907">
+              <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>min</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Chapter2_Sorting/QuickSort.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Union_find/quick_find.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter2_Sorting/MergeSort.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter2_Sorting/SortCompare.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter2_Sorting/Elementary_Sorting.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter1_Fundamentals/LinkList.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Practice/1_1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Percolation/Percolation.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Practice/Utils.py" />
+        <option value="$PROJECT_DIR$/Practice/__init__.py" />
+        <option value="$PROJECT_DIR$/Practice/1_1.py" />
+        <option value="$PROJECT_DIR$/algorithm/union-find.py" />
+        <option value="$PROJECT_DIR$/algorithm/Union-find/quick-find.py" />
+        <option value="$PROJECT_DIR$/algorithm/Union-find/quick-union.py" />
+        <option value="$PROJECT_DIR$/algorithm/Union-find/weighted_quick-union.py" />
+        <option value="$PROJECT_DIR$/algorithm/Union-find/practice/1-5-1.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/Percolation.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/Union-find/weighted_quick-union.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/3-SUM.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/__init__.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/Union_find/quick_find.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/Union_find/weighted_quick_union.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/Percolation/percolation/Percolation.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/Percolation/Percolation_2.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/Percolation/__init__.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/Percolation/Percolation.py" />
+        <option value="$PROJECT_DIR$/Chapter 1/Percolation/PercolationStats.py" />
+        <option value="$PROJECT_DIR$/Chapter1_FUndamentals/Percolation/PercolationStats.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/2.1 Elementary_Sorting.py" />
+        <option value="$PROJECT_DIR$/Chapter1_Fundamentals/Percolation/PercolationStats.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/2.1 Elementary_Sorting/Selection_Sort.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/__init__.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/2_1_Elementary_Sorting.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/SortCompare.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/practice/play_card.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/MergeSort.py" />
+        <option value="$PROJECT_DIR$/Chapter1_Fundamentals/Union_find/weighted_quick_union.py" />
+        <option value="$PROJECT_DIR$/Chapter1_Fundamentals/Percolation/Percolation.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/heap.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/QuickSort.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/HeapSort.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/Elementary_Sorting.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Searching/ST.py" />
+        <option value="$PROJECT_DIR$/Chapter2_Sorting/LinkListSort.py" />
+        <option value="$PROJECT_DIR$/Utils.py" />
+        <option value="$PROJECT_DIR$/stock_price.py" />
+        <option value="$PROJECT_DIR$/Rotate_Array.py" />
+        <option value="$PROJECT_DIR$/IsDuplicated.py" />
+        <option value="$PROJECT_DIR$/OnlyONe.py" />
+        <option value="$PROJECT_DIR$/SameOfTwoArray.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Searching/BST.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Searching/SequentialSearchST.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Searching/firstUniqChar.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Searching/SeparateChainingHashST.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Searching/RedBlackTree.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Searching/BinarySearchingST.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="546" />
+    <option name="y" value="193" />
+    <option name="width" value="1367" />
+    <option name="height" value="1016" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AlgorithmsVI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsVI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsVI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsVI" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter3_Searching" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///media/philex/File/Workspace/AlgorithmsVI/Chapter2_Sorting/Elementary_Sorting.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter2_Sorting" />
+      <recent name="$PROJECT_DIR$/Chapter 1/Practice" />
+      <recent name="$PROJECT_DIR$/Chapter 1" />
+      <recent name="$PROJECT_DIR$/Chapter 1/Percolation" />
+      <recent name="$PROJECT_DIR$/algorithm/Union-find" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter 1/Percolation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Python Console">
+    <configuration name="IsDuplicated" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmsVI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IsDuplicated.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OnlyONe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmsVI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OnlyONe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python Console" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmsVI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/Python Console" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RedBlackTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmsVI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3_Searching" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3_Searching/RedBlackTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Rotate_Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmsVI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rotate_Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Rotate_Array" />
+      <item itemvalue="Python.IsDuplicated" />
+      <item itemvalue="Python.OnlyONe" />
+      <item itemvalue="Python.RedBlackTree" />
+      <item itemvalue="Python.Python Console" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Python Console" />
+        <item itemvalue="Python.RedBlackTree" />
+        <item itemvalue="Python.OnlyONe" />
+        <item itemvalue="Python.IsDuplicated" />
+        <item itemvalue="Python.Rotate_Array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c75da50b-1b31-49c7-a017-adccf2a056b8" name="Default" comment="" />
+      <created>1531314127770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531314127770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="546" y="193" width="1367" height="1016" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973404" visible="true" weight="0.18886381" />
+      <window_info id="Structure" order="1" sideWeight="0.50265956" side_tool="true" weight="0.17838247" />
+      <window_info id="Favorites" order="2" sideWeight="0.50265956" side_tool="true" weight="0.17838247" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962208" weight="0.20978262" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4990909" weight="0.43537414" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32839507" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5009091" side_tool="true" weight="0.35147393" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49962208" weight="0.31630436" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32826087" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.conda/envs/phi3.6/lib/python3.6/site-packages/numpy/core/fromnumeric.py" />
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Practice/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/Utils.py" />
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Practice/1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/112467358/numpy/core/multiarray.py" />
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Practice/1-5-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 1/Percolation/percolation/Percolation.py" />
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Percolation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/2.1 Elementary_Sorting.py" />
+    <entry file="file://$USER_HOME$/.conda/envs/phi3.6/lib/python3.6/codecs.py" />
+    <entry file="file://$USER_HOME$/.conda/envs/phi3.6/lib/python3.6/random.py" />
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/time.pyi" />
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/SortCompare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/LinkList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/phi3.6/lib/python3.6/site-packages/numpy/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/3-SUM.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/stack_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Union_find/weighted_quick_union.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Percolation/PercolationStats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Percolation/Percolation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/practice/play_card.py" />
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Union_find/quick_find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1_Fundamentals/Union_find/quick_union.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/LinkListSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/QuickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="60" column="76" lean-forward="true" selection-start-line="60" selection-start-column="76" selection-end-line="60" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/MergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/Elementary_Sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/HeapSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_Sorting/heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_price.py" />
+    <entry file="file://$PROJECT_DIR$/Utils.py" />
+    <entry file="file://$PROJECT_DIR$/Rotate_Array.py" />
+    <entry file="file://$PROJECT_DIR$/OnlyONe.py" />
+    <entry file="file://$PROJECT_DIR$/SameOfTwoArray.py" />
+    <entry file="file://$PROJECT_DIR$/IsDuplicated.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/112467358/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/Chapter3_Searching/firstUniqChar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Searching/SeparateChainingHashST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Searching/ST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-575">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Searching/BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Searching/RedBlackTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="161" column="30" lean-forward="true" selection-start-line="161" selection-start-column="30" selection-end-line="161" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Searching/SequentialSearchST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="907">
+          <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Searching/BinarySearchingST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
